@@ -1,0 +1,12 @@
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\bin\Debug\net6.0\ProblemOne.deps.json
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\bin\Debug\net6.0\ProblemOne.dll
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\bin\Debug\net6.0\ProblemOne.pdb
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.csproj.AssemblyReference.cache
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.AssemblyInfoInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.AssemblyInfo.cs
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.csproj.CoreCompileInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.dll
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\refint\ProblemOne.dll
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ProblemOne.pdb
+C:\Users\MURPHY NNAMDI\source\repos\LiveEvaluationOne\ProblemOne\obj\Debug\net6.0\ref\ProblemOne.dll

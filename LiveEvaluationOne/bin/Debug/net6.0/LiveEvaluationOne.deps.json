@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LiveEvaluationOne/1.0.0": {
+        "dependencies": {
+          "ProblemOne": "1.0.0"
+        },
+        "runtime": {
+          "LiveEvaluationOne.dll": {}
+        }
+      },
+      "ProblemOne/1.0.0": {
+        "runtime": {
+          "ProblemOne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiveEvaluationOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProblemOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
