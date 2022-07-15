@@ -13,4 +13,5 @@ namespace ProblemOne
         Wednesday,
         Thursday
     }
+
 }
